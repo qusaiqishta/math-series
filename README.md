@@ -1,0 +1,1 @@
+[math_series_pr](https://github.com/qusaiqishta/math-series/pull/1)
